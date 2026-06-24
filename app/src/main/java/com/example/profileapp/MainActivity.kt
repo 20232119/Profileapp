@@ -156,7 +156,7 @@ fun ProfileScreen(
 
                     // Nombre
                     Text(
-                        text = "Tu Nombre",
+                        text = "Marleny Rodriguez Betances",
                         style = MaterialTheme.typography.headlineLarge.copy(
                             fontWeight = FontWeight.Bold,
                             color = MaterialTheme.colorScheme.onSurface
@@ -165,7 +165,7 @@ fun ProfileScreen(
 
                     // Carrera
                     Text(
-                        text = "Programación Computacional",
+                        text = "Programación computacional",
                         style = MaterialTheme.typography.titleMedium.copy(
                             color = Color(0xFF00ACC1)
                         ),
